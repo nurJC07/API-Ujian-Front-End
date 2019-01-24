@@ -1,0 +1,271 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Nur",
+      "password": "1234abcd",
+      "email": "siti_sli@hotmail.com"
+    },
+    {
+      "id": 2,
+      "username": "Siti",
+      "password": "jannah",
+      "email": "siti_sli@hotmail.com"
+    },
+    {
+      "username": "Nur",
+      "email": "siti_sli@hotmail.com",
+      "password": "1234abcd",
+      "confirm": "1234abcd",
+      "phone": "082179546622",
+      "id": 3
+    },
+    {
+      "username": "Nur",
+      "email": "siti_sli@hotmail.com",
+      "password": "1234abcd",
+      "confirm": "1234abcd",
+      "phone": "082179546622",
+      "id": 4
+    },
+    {
+      "username": "Nur",
+      "email": "siti_sli@hotmail.com",
+      "password": "1234abcd",
+      "confirm": "1234abcd",
+      "phone": "082179546622",
+      "id": 5
+    },
+    {
+      "username": "Nur",
+      "email": "siti_sli@hotmail.com",
+      "password": "1234abcd",
+      "confirm": "1234abcd",
+      "phone": "082179546622",
+      "id": 6
+    },
+    {
+      "username": "Dian",
+      "email": "nurul_teax@yahoo.com",
+      "password": "jannah80",
+      "confirm": "jannah80",
+      "phone": "082179546622",
+      "id": 7
+    },
+    {
+      "username": "Dian",
+      "email": "hello@hotmail.com",
+      "password": "1234",
+      "confirm": "1234",
+      "phone": "089995643221",
+      "id": 8
+    },
+    {
+      "username": "Nur",
+      "email": "siti_sli@hotmail.com",
+      "password": "1234abcd",
+      "confirm": "1234abcd",
+      "phone": "082179546622",
+      "id": 9
+    },
+    {
+      "username": "Nur",
+      "email": "siti_sli@hotmail.com",
+      "password": "1234abcd",
+      "confirm": "1234abcd",
+      "phone": "082179546622",
+      "id": 10
+    },
+    {
+      "username": "Siti",
+      "email": "siti_sli@hotmail.com",
+      "password": "1234abcd",
+      "confirm": "1234abcd",
+      "phone": "082179546622",
+      "id": 11
+    },
+    {
+      "username": "Siti",
+      "email": "siti_sli@hotmail.com",
+      "password": "1234abcd",
+      "confirm": "1234abcd",
+      "phone": "082179546622",
+      "id": 12
+    }
+  ],
+  "produk": [
+    {
+      "nama": "Lumix DC-GF9 ",
+      "merek": "Lumix",
+      "harga": "5500000",
+      "img": "https://d2pa5gi5n2e1an.cloudfront.net/global/images/product/digitalcameras/Panasonic_Lumix_DCGF9_Kit/Panasonic_Lumix_DCGF9_Kit_L_1.jpg",
+      "description": "Panasonic Lumix DC-GF9 Kit dengan 16 MP",
+      "id": 1
+    },
+    {
+      "nama": "Nikon D3100",
+      "merek": "Nikon",
+      "harga": 4200000,
+      "img": "http://rumorkamera.com/wp-content/uploads/2014/10/rsz_1nikon_d3100.jpg",
+      "description": "kamera DSLR D3100 kit 18-55 mm",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "nama": "Sony a6000 ",
+      "merek": "Sony",
+      "description": "Kamera Sony a6000 sensor CMOS APSC resolusi 24.3 Megapixel ",
+      "harga": 7800000,
+      "img": "https://3.bp.blogspot.com/-8OcVKWF-U1I/VHNWyEEMsZI/AAAAAAAAADA/E8KOSTTV8Pg/s1600/Kamera%2BSony%2BA6000.JPG"
+    },
+    {
+      "nama": "Canon EOS 60D",
+      "merek": "Canon",
+      "harga": 10000000,
+      "img": "https://d2pa5gi5n2e1an.cloudfront.net/global/images/product/digitalcameras/Canon_EOS_60D_Kit/Canon_EOS_60D_Kit_L_1.jpg",
+      "description": "Canon EOS 60D DSLR - dengan Lens, 18MP",
+      "id": 4
+    },
+    {
+      "nama": "Samsung NX300",
+      "merek": "Samsung",
+      "harga": 5700000,
+      "img": "http://www.ponselbaru.net/wp-content/uploads/2015/05/Review-Harga-dan-Spesifikasi-Samsung-NX300-Digital-Kamera1.jpg",
+      "description": "Kamera dengan 20.3 M CMOS Sensor ",
+      "id": 5
+    },
+    {
+      "nama": "Fuji Film XT 100 ",
+      "merek": "Fuji Film",
+      "harga": 12000000,
+      "img": "https://keyassets.timeincuk.net/inspirewp/live/wp-content/uploads/sites/12/2018/03/Fujifilm-X100F-34.jpg",
+      "description": "24.2MP X-Trans CMOS III sensor",
+      "id": 6
+    },
+    {
+      "nama": "Olympus OM-D E-M10 Mark III ",
+      "merek": "Olympus",
+      "harga": 17000000,
+      "img": "https://images-na.ssl-images-amazon.com/images/I/91kppANUfDL._SX355_.jpg",
+      "description": "Kamera dengan 16.1 MP",
+      "id": 7
+    },
+    {
+      "nama": "Pentax K1000",
+      "merek": "JPentax",
+      "harga": 7000000,
+      "img": "https://kenrockwell.com/pentax/images/k1000/D3S_6098-1200.jpg",
+      "description": "Pentax K1000 SE with SMC Pentax-A 50mm f/2 ",
+      "id": 8
+    },
+    {
+      "nama": "Go Pro Hero 7",
+      "merek": "Go Pro",
+      "harga": 9000000,
+      "img": "https://www.thomann.de/pics/bdb/449022/13595076_800.jpg",
+      "description": "GoPro HERO 7 Black",
+      "id": 9
+    }
+  ],
+  "cart": [],
+  "transaksi": [
+    {
+      "username": "",
+      "tglTransaksi": "",
+      "totalPrice": 0,
+      "totalItem": 0,
+      "id": 0
+    },
+    {
+      "username": "Nur",
+      "tglTransaksi": "2019-01-20T16:43:02.071Z",
+      "totalPrice": 40000,
+      "totalItem": 1,
+      "id": 1
+    },
+    {
+      "username": "Nur",
+      "tglTransaksi": "2019-01-20T16:44:22.369Z",
+      "totalPrice": 17000,
+      "totalItem": 1,
+      "id": 2
+    },
+    {
+      "username": "Nur",
+      "tglTransaksi": "2019-01-20T17:30:43.856Z",
+      "totalPrice": 17000,
+      "totalItem": 1,
+      "id": 3
+    },
+    {
+      "username": "Nur",
+      "tglTransaksi": "2019-01-22T08:25:50.837Z",
+      "totalPrice": 12600000,
+      "totalItem": 1,
+      "id": 4
+    },
+    {
+      "username": "Nur",
+      "tglTransaksi": "2019-01-22T08:27:20.156Z",
+      "totalPrice": 18400000,
+      "totalItem": 2,
+      "id": 5
+    }
+  ],
+  "transaksiItem": [
+    {
+      "transaksiId": 0,
+      "produkId": 0,
+      "nama": "",
+      "harga": 0,
+      "img": "",
+      "quantity": 0,
+      "id": 0
+    },
+    {
+      "transaksiId": 1,
+      "produkId": 2,
+      "nama": "Mommy Poko",
+      "harga": 20000,
+      "img": "https://images-na.ssl-images-amazon.com/images/I/71fkJy5y9KL._SX425_.jpg",
+      "quantity": 2,
+      "id": 1
+    },
+    {
+      "transaksiId": 3,
+      "produkId": 1,
+      "nama": "Sweety Pants",
+      "harga": 17000,
+      "img": "https://www.banjirharga.info/details/1050/images/mamypoko_mamy-poko-popok-pants-standar--size-xl-isi-20-_full02.jpg",
+      "quantity": 1,
+      "id": 2
+    },
+    {
+      "transaksiId": 4,
+      "produkId": 2,
+      "nama": "Nikon D3100",
+      "harga": 4200000,
+      "img": "http://rumorkamera.com/wp-content/uploads/2014/10/rsz_1nikon_d3100.jpg",
+      "quantity": 3,
+      "id": 3
+    },
+    {
+      "transaksiId": 5,
+      "produkId": 4,
+      "nama": "Canon EOS 60D",
+      "harga": 10000000,
+      "img": "https://d2pa5gi5n2e1an.cloudfront.net/global/images/product/digitalcameras/Canon_EOS_60D_Kit/Canon_EOS_60D_Kit_L_1.jpg",
+      "quantity": 1,
+      "id": 4
+    },
+    {
+      "transaksiId": 5,
+      "produkId": 2,
+      "nama": "Nikon D3100",
+      "harga": 4200000,
+      "img": "http://rumorkamera.com/wp-content/uploads/2014/10/rsz_1nikon_d3100.jpg",
+      "quantity": 2,
+      "id": 5
+    }
+  ]
+}
